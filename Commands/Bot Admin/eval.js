@@ -1,11 +1,12 @@
+-----------------------------------------
 
- `* @author [ClearlyElevated#0001]`
- `* @email [TanzNolan@gmail.com]`
- `* @create date 2019-11-19 00:28:14`
- `* @desc [Eval Commands / Bot Admin]`
+ /// * @author [ClearlyElevated#0001]
+ /// * @email [TanzNolan@gmail.com]
+ /// * @create date 2019-11-19 00:28:14
+ /// * @desc [Eval Commands / Bot Admin]
+-----------------------------------------
 
- 
- const Discord = require ("discord.js"); // eslint-disable-line no-unused-vars
+const Discord = require ("discord.js"); // eslint-disable-line no-unused-vars
 const Command = require("../base/Command.js");
 
 class Eval extends Command {
